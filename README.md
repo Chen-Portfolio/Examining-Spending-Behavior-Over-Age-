@@ -37,4 +37,7 @@ The main technical skills included in this project are:
 <a id='results'></a>
 ## Results
 
-The results have been clearly documented in the Jupyter Notebook. Please refer to [Examining_Spending_Behavior_over_Age_by_Three_Models.ipynb](Examining_Spending_Behavior_over_Age_by_Three_Models.ipynb).
+The results have been clearly documented in the Jupyter Notebook. Please refer to [Examining_Spending_Behavior_over_Age_by_Three_Models.ipynb](Examining_Spending_Behavior_over_Age_by_Three_Models.ipynb) as well as the visualization result of the four customer segmentation showed as below:
+
+
+![](/images/viz_by_random_forest_depth5.png)
